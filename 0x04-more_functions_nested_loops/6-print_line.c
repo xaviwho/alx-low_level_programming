@@ -18,6 +18,4 @@ void print_line(int n)
 	}
 	_putchar('\n');
 }
-© 2022 GitHub, Inc.
-Terms
-Priv
+
